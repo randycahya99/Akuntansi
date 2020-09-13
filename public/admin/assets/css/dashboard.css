@@ -1,0 +1,111 @@
+.card-stats .card-body {
+    padding: 15px 15px 0px;
+  }
+  
+  .card-stats .card-body .numbers {
+    text-align: right;
+    font-size: 2em;
+  }
+  
+  .card-stats .card-body .numbers p {
+    margin-bottom: 0;
+  }
+  
+  .card-stats .card-body .numbers .card-category {
+    color: #9A9A9A;
+    font-size: 16px;
+    line-height: 1.4em;
+  }
+  
+  .card-stats .card-footer {
+    padding: 0px 15px 15px;
+  }
+  
+  .card-stats .card-footer .stats {
+    color: #9A9A9A;
+  }
+  
+  .card-stats .card-footer hr {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .card-stats .icon-big {
+    font-size: 3em;
+    min-height: 64px;
+  }
+  
+  .card-stats .icon-big i {
+    line-height: 59px;
+  }
+
+.card[data-background-color="orange"] {
+    background-color: #51cbce;
+  }
+  
+  .card[data-background-color="orange"] .card-header {
+    background-color: #51cbce;
+  }
+  
+  .card[data-background-color="orange"] .card-footer .stats {
+    color: #FFFFFF;
+  }
+  
+  .card[data-background-color="red"] {
+    background-color: #ef8157;
+  }
+  
+  .card[data-background-color="yellow"] {
+    background-color: #fbc658;
+  }
+  
+  .card[data-background-color="blue"] {
+    background-color: #51bcda;
+  }
+  
+  .card[data-background-color="green"] {
+    background-color: #6bd098;
+  }
+  
+  .card .image {
+    overflow: hidden;
+    height: 200px;
+    position: relative;
+  }
+  
+  .card .avatar {
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .card .numbers {
+    font-size: 2em;
+  }
+  
+  .card .big-title {
+    font-size: 12px;
+    text-align: center;
+    font-weight: 500;
+    padding-bottom: 15px;
+  }
+  
+  .card label {
+    font-size: 0.8571em;
+    margin-bottom: 5px;
+    color: black;
+  }
+  
+  .card .card-footer {
+    background-color: transparent;
+    border: 0;
+  }
+  
+  .card .card-footer .stats i {
+    margin-right: 5px;
+    position: relative;
+    top: 0px;
+    color: #66615B;
+  }
